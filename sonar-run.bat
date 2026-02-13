@@ -1,0 +1,1 @@
+pysonar --sonar-token=9019d9d5f17599f093768175c6813ed869b59f40 --sonar-project-key=bmerkle_typeagent-py --sonar-organization=bmerkle

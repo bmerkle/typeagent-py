@@ -29,6 +29,10 @@ pytest.local.ini
 .coverage
 .coverage.*
 
+# SonarQube
+.sonar/
+
+
 # Evaluations
 /evals
 /tests/testdata/Episode_53_Answer_results.json
